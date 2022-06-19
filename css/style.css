@@ -1,0 +1,38 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+
+h1,
+h2,
+#subtitle,
+#img-div,
+#read-more {
+  text-align: center;
+}
+
+#main {
+  background-color: #eeeeee;
+  padding: 10px 20px;
+  margin: 0 auto;
+}
+
+#main #img-div {
+  padding: 20px;
+  background-color: white;
+}
+
+#main #img-div #image {
+  max-width: 100%;
+}
+
+#main #tribute-info {
+  margin: 0 auto;
+  max-width: 485px;
+  text-align: justify;
+}
+
+#main #read-more {
+  margin: 50px auto;
+  max-width: 485px;
+}
+/*# sourceMappingURL=style.css.map */
