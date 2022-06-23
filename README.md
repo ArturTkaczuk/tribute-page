@@ -1,6 +1,6 @@
-# Insect game
+# Tribute page
 
-One of my first projects in HTML & CSS. Simple one-page website to learn coding. Check it [Live here](https://tribute-page-at.netlify.app/)
+One of my first projects in HTML & SCSS. Simple one-page website to learn coding. Check it [Live here](https://tribute-page-at.netlify.app/)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ One of my first projects in HTML & CSS. Simple one-page website to learn coding.
 
 Technologies used during development process:
 
-- CSS
+- SCSS
 - HTML
 
 ## Support
