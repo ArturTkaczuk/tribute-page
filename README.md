@@ -20,12 +20,12 @@ One of my first projects in HTML & SCSS. Simple one-page website to learn coding
 **a) Download project via git**
 
 1. Run command in terminal `git clone https://github.com/ArturTkaczuk/tribute-page.git`
-2. Run index.html to open game in browser
+2. Run index.html to open website in browser
 
 **b) Download project manually from GitHub**
 
 1. Download project from [this link](https://github.com/ArturTkaczuk/tribute-page/archive/refs/heads/main.zip)
-2. Run index.html to open game in browser
+2. Run index.html to open website in browser
 
 ## Technologies
 
